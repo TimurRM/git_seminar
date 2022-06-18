@@ -48,4 +48,14 @@ ___________
 * *git remote set-url origin ssh://git@github.com/[username]/[repository-name].git* - Set a repository's origin branch to SSH
 
 _________
-# __*Markdown*__
+# __Markdown__
+
+>## __*Links examples:*__
+
+
+1. [Markdown tutorial docs. (Russian)](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
+
+
+2. [Git commands](https://github.com/joshnh/Git-Commands)
+
+
