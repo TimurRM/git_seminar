@@ -61,5 +61,5 @@ _________
 
 >## __*Adding Images:*__
 
-![Programming](programmer.jpg)
+![Programming](programmer.jpeg)
 
