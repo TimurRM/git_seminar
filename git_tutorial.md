@@ -60,3 +60,6 @@ _________
 
 
 >## __*Adding Images:*__
+
+![Programming](code.jpg)
+
