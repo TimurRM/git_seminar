@@ -7,3 +7,5 @@
 
 # Homework
 
+* For rename commit text use **git commit --amend -m "New text"**
+* For briefly display the log use **git log --oneline**
