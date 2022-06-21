@@ -9,3 +9,5 @@
 
 * For rename commit text use **git commit --amend -m "New text"**
 * For briefly display the log use **git log --oneline**
+* For see all branchs log use **git log --all**
+* For create new branch with swiching at it use **git checkout -b <branch_name>**
