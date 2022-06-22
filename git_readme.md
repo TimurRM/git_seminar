@@ -19,3 +19,6 @@
 9. To abort the merge process and try to reconstruct the pre-merge state after the merge has resulted in conflicts run **git merge --abort**
 10. To run after the merge has resulted in conflicts run **git merge --continue**
 10. git merge --continue") can only be run after the merge has resulted in conflicts.
+
+# NOTE
+To simulate a conflict in git, you can create the same items (points, headlines) with different text in both branches. As a result of the merge, git will offer to select changes from first or second branch or merge both.
