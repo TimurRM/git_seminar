@@ -17,3 +17,5 @@
 * To send <_new_branch_name_> to the remote repository run **git push --set-upstream origin <new_branch_name>**
 * To delete previous branch in the remote repository name run **git push origin --delete <previous_name>**
 * To abort the merge process and try to reconstruct the pre-merge state after the merge has resulted in conflicts run **git merge --abort**
+
+Text for create conflict
