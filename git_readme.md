@@ -8,11 +8,12 @@
 
 # Homework
 
-* To rename commit text run **git commit --amend -m "New text"**
+* To rename commit text run git commit --amend -m "New text"
 * To briefly display the log run **git log --oneline**
 * To see all branchs log run **git log --all**
 * To create new branch with switching at it run **git checkout -b <branch_name>**
 * To see the latest commit on each branch run **git branch -v**
-* To rename the banch run **git branch --move <previous_name> <new_branch_name>**
+* To rename the banch run **git branch --move <previous_name <new_branch_name>**
 * To send <new_branch_name> to the remote repository run **git push --set-upstream origin <new_branch_name>**
 * To delete previous branch in the remote repository name run **git push origin --delete <previous_name>**
+* To abort the merge process and try to reconstruct the pre-merge state after the merge has resulted in conflicts run **git merge --abort**
