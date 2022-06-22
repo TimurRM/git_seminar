@@ -13,5 +13,5 @@
 * To create new branch with swiching at it run **git checkout -b <branch_name>**
 * To see the latest commit on each branch run **git branch -v**
 * To rename the banch run **git branch --move <previous_name> <new_branch_name>**
-* To send new branch name to the remote repository run **git push --set-upstream origin new_branch_name**
-* To delete previous branch in the remote repository name run **git push origin --delete previous_name**
+* To send <new_branch_name> to the remote repository run **git push --set-upstream origin <new_branch_name>**
+* To delete previous branch in the remote repository name run **git push origin --delete <previous_name>**
