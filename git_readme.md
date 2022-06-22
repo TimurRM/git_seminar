@@ -4,7 +4,7 @@
 * To create new branch run **git branch <branch_name>**
 * To merge branches run **git merge <branch_name>**
 //First you need to checkout to the "main" branch, than use this command with the upcoming changes branch name//
-* To delet barnch run **git branch -d <branch_name>**
+* To delete barnch run **git branch -d <branch_name>**
 
 # Homework (create 4 branches and merge with some conflict)
 
