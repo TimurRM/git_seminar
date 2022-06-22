@@ -12,3 +12,4 @@
 * To see all branchs log run **git log --all**
 * To create new branch with swiching at it run **git checkout -b <branch_name>**
 * To see the latest commit on each branch run **git branch -v**
+* To rename the banch run **git branch --move <previous_name> <new_branch_name>**
