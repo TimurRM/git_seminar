@@ -1,4 +1,5 @@
-# Using branches in control versions.
+# Using branches in control versions
+
 * To rename branch run **git branch -m <name>**
 * To create new branch run **git branch <branch_name>**
 * To merge branches run **git merge <branch_name>**
