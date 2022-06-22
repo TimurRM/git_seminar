@@ -13,3 +13,4 @@
 * To create new branch with swiching at it run **git checkout -b <branch_name>**
 * To see the latest commit on each branch run **git branch -v**
 * To rename the banch run **git branch --move <previous_name> <new_branch_name>**
+* To send new branch name to the remote repository run **git push --set-upstream origin corrected-branch-name**
